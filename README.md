@@ -71,19 +71,12 @@ I am JsonChao who is a developer from China.
 - 50、[ao3dle](https://ao3dle.com/) : The Daily AO3 Fanfiction Guessing Game
 - 51、[silksong save editor](https://silksongsaveeditor.com/):Manage Your Game Progress Easily
 - 52、[chess analysis](https://chessanalysis.net/):Comprehensive Chess Analysis Tools
-
-### Stats 🌱
-
-<table cellspacing="0" cellpadding="0" style="border: none">
-  <tr>
-    <td>
-      
-![my github stats](https://github-readme-stats.vercel.app/api?username=JsonChao&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs)
-    </td>
-    <td>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsonChao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-    </td>
-    </tr> 
+- 53、[the forge calculator](https://theforgecalculators.com/) : Optimize Your Gameplay
+- 54、[the forge tier list](https://theforgetierlist.com/) : The Forge Tier List - Best Weapons, Races & More
+- 55、[ableitungsrechner](https://ableitungsrechner.app/) : Berechnen Sie Widerstandswerte mit Ableitungsrechner
+- 56、[calculadora de derivadas](https://calculadoradederivadas.net/) : Calculadora de Derivadas - Calcula Rápido y Preciso
+- 57、[derivative calculator](https://derivativecalculator.io/) : Instant Derivative Calculator - DerivativeCalculator.io
+- 58、[determinant calculator](https://determinant-calculator.com/) : Instant Determinant Calculator - Calculate Matrix Determinants
+- 59、[turbolearn ai](https://turbolearn-ai.com/) : AI-Powered Learning Assistant for Efficient Study
 
 
