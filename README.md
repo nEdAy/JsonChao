@@ -78,5 +78,7 @@ I am JsonChao who is a developer from China.
 - 57、[derivative calculator](https://derivativecalculator.io/) : Instant Derivative Calculator - DerivativeCalculator.io
 - 58、[determinant calculator](https://determinant-calculator.com/) : Instant Determinant Calculator - Calculate Matrix Determinants
 - 59、[turbolearn ai](https://turbolearn-ai.com/) : AI-Powered Learning Assistant for Efficient Study
+- 60、[couple ai](https://couple-ai.com/) : AI-Powered Couple Photo Generator
+- 61、[remove bg video](https://removebgvideo.com/) : Remove Video Backgrounds Automatically — No Green Screen Needed
 
 
