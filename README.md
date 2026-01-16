@@ -80,5 +80,6 @@ I am JsonChao who is a developer from China.
 - 59、[turbolearn ai](https://turbolearn-ai.com/) : AI-Powered Learning Assistant for Efficient Study
 - 60、[couple ai](https://couple-ai.com/) : AI-Powered Couple Photo Generator
 - 61、[remove bg video](https://removebgvideo.com/) : Remove Video Backgrounds Automatically — No Green Screen Needed
+- 62、[Hytale Calculator](https://hytalecalculator.com/): Crafting Materials, Recipe Costs, Loot Drop Odds, Gear & Stat Comparisons, and Build Planning - a fast, fan-made toolbox to help Hytale players theorycraft and prepare.
 
 
