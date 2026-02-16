@@ -82,5 +82,7 @@ I am JsonChao who is a developer from China.
 - 61、[remove bg video](https://removebgvideo.com/) : Remove Video Backgrounds Automatically — No Green Screen Needed
 - 62、[Hytale Calculator](https://hytalecalculator.com/): Crafting Materials, Recipe Costs, Loot Drop Odds, Gear & Stat Comparisons, and Build Planning - a fast, fan-made toolbox to help Hytale players theorycraft and prepare.
 - 63、[ai seedance 2.0](https://seedanceai2.org/):Create cinematic ads, product demos, and social-ready clips fast with Seedance 2.0 AI. Turn prompts or images into high-conversion videos, keep characters consistent, and publish campaigns today, fast.
+- 64、[ai seedream 5.0](https://aiseedream5.org/) : Create Stunning AI Content in Minutes.
+- 65、[ai seedance 3.0](https://seedance3ai.net/) : helps creators turn prompts and images into polished AI videos with faster rendering, stable character consistency, smart style controls and production-ready outputs for social campaigns.
 
 
