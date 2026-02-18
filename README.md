@@ -84,5 +84,6 @@ I am JsonChao who is a developer from China.
 - 63、[ai seedance 2.0](https://seedanceai2.org/):Create cinematic ads, product demos, and social-ready clips fast with Seedance 2.0 AI. Turn prompts or images into high-conversion videos, keep characters consistent, and publish campaigns today, fast.
 - 64、[ai seedream 5.0](https://aiseedream5.org/) : Create Stunning AI Content in Minutes.
 - 65、[ai seedance 3.0](https://seedance3ai.net/) : helps creators turn prompts and images into polished AI videos with faster rendering, stable character consistency, smart style controls and production-ready outputs for social campaigns.
+- 66、[banana pro ai](https://banana-pro.ai/) : helps creators turn prompts and images into polished AI videos with faster rendering, stable character consistency, smart style controls and production-ready outputs for social campaigns.
 
 
