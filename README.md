@@ -103,3 +103,9 @@ I am JsonChao who is a developer from China.
 - 82、[fortnite sprite tracker](https://fortnitespritetracker.org/) : Free Collection Checklist
 - 83、[matriz del destino](https://matrizdeldestino.app/) : Calculadora Gratis de la Matriz del Destino
 - 84、[destiny matrix](https://destinymatrix.app/) : Destiny Matrix Calculator
+- 85、[astrocartography chart](https://astrocartographychart.app/) : Free Birth Map Calculator
+- 86、[ttviewer](https://ttviewer.org/) : Anonymous TikTok Profile Viewer
+- 87、[kingshot optimizer](https://kingshot-optimizer.com/) : Free Gear, Event & KvK Tools
+- 88、[soundloadmate](https://soundloadmate.org/) : Free SoundCloud Downloader to MP3
+- 89、[imagen a texto](https://imagenatexto.app/) : Free Online OCR Converter
+- 90、[vynoa](https://vynoa.ai/) : all-in-one AI video and image creation platform.
